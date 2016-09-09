@@ -14,7 +14,8 @@ La orientación al cliente y nuestra filosofía de soporte continuo genera un ac
 
 
 <h2>Donating</h2>
-If you really like this project, feel free to buy <b>pizza</b> :pizza: or <b>beers</b> :beers: for devs (or a present :rose: :gift: for my gf, she is a bit mad that i'm spending most part of my free time for this project :coffee:<br/><br/>
+If you really like this project, feel free to buy <b>pizza</b> :pizza: or <b>beers</b> :beers: for devs 
+(or a present :rose: :gift: for my gf, she is a bit mad that i'm spending most part of my free time for this project :coffee: )<br/><br/>
 <p align="center"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9QQDJJSB4NUDG">
 <img src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif"/></a></p>
 
