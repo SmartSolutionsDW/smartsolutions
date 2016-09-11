@@ -47,4 +47,17 @@ end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
-gem 'therubyracer'
+  #Gemas agregadas
+  gem 'therubyracer'
+  gem 'less-rails'
+  gem 'twitter-bootstrap-rails'
+  
+  # Bootstrap Grid System
+  gem 'bootstrap-grid-system'
+  
+  gem 'jqgrid_for_rails'
+  
+  gem 'bootstrap-validator-rails'
+
+  gem 'bcrypt', '~> 3.1.7'
+  gem 'email_validator'
