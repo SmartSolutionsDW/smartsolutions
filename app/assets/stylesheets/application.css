@@ -13,3 +13,22 @@
  *= require_tree .
  *= require_self
  */
+ 
+
+@import 'https://fonts.googleapis.com/css?family=Ubuntu:400,700';
+
+html, body { 
+    background: #909090; 
+    color:#FFF;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: medium;
+}
+
+
+.imagen img{
+  float: left;
+  height: 300px;
+  width: 380px;
+  margin: 20px;
+  overflow: hidden;
+}

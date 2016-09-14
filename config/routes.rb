@@ -9,6 +9,8 @@ Rails.application.routes.draw do
   get 'pages/tos'
 
   get 'pages/contact_us'
+  
+  get 'pages/login'
 
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
 end
