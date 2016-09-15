@@ -61,3 +61,8 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
   gem 'bcrypt', '~> 3.1.7'
   gem 'email_validator'
+  
+  # Gems Login
+  gem 'omniauth-facebook', '~> 4.0'
+  gem 'omniauth-twitter', '~> 1.2', '>= 1.2.1'
+  gem 'omniauth-github', '~> 1.1', '>= 1.1.2'

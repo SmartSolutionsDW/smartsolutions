@@ -1,5 +1,5 @@
 class PagesController < ApplicationController
-  layout 'internal', except: [:index]
+  before_action :set_auth
   def index
   end
 
@@ -15,7 +15,12 @@ class PagesController < ApplicationController
   def contact_us
   end
   
-  def login
+  def profile
   end
   
+  private
+  def set_auth
+    @auth = session[:omniauth] if session[:omniauth]
+  end
 end
+

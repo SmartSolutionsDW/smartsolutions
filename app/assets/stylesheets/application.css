@@ -18,7 +18,7 @@
 @import 'https://fonts.googleapis.com/css?family=Ubuntu:400,700';
 
 html, body { 
-    background: #909090; 
+    background: #004C7A; 
     color:#FFF;
     font-family: 'Ubuntu', sans-serif;
     font-size: medium;
@@ -31,4 +31,18 @@ html, body {
   width: 380px;
   margin: 20px;
   overflow: hidden;
+}
+
+.collapse{
+  padding: 40px;
+}
+
+
+.ok{
+   color:#000000; 
+}
+
+
+.jumbotron{
+    background:#100001;
 }
